@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/arr-any",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Check whether a condition is true for any element of an array. The condition check is in the form of a callback.",
    "main": "dist/arr-any.umd.js",
    "module": "dist/arr-any.esm.js",
@@ -51,7 +51,7 @@
    },
    "devDependencies": {
       "babel-core": "^6.26.3",
-      "babel-jest": "^25.4.0",
+      "babel-jest": "^25.5.1",
       "babel-preset-env": "^1.7.0",
       "documentation": "^12.3.0",
       "esm": "^3.2.25",
